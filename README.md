@@ -1,0 +1,1 @@
+# exif-dashboard-pro
