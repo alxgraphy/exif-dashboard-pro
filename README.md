@@ -15,6 +15,14 @@ Perfect for photographers who want deep insights into their shooting habits, gea
 * **GPS Location Mapping** - See everywhere you've photographed
 * **Interactive Charts** - Beautiful Plotly visualizations
 * **Export Reports** - Save your analysis
+## 📸 Screenshots
+
+### Main Dashboard
+<img width="1439" alt="EXIF Dashboard Overview" src="https://github.com/user-attachments/assets/43201d85-4203-4fef-8da8-ac29702112b5" />
+
+
+### Camera & Lens Analysis
+<img width="1439" height="789" alt="Image" src="https://github.com/user-attachments/assets/349521b2-e397-41fd-9a3b-2a83b5c97796" />
 
 ## Requirements
 
