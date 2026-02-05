@@ -103,7 +103,7 @@ exif-dashboard-pro/
 
 ## Made with ❤️ in Toronto, Canada 🇨🇦
 
-**By Alexander Wondwossen** ([@alxgraphy](https://github.com/alxgraphy))
+**By Alexander Wondwossen** ([@thealxlabs](https://github.com/thealxlabs))
 
 Feel free to fork, modify, use, and share — open an issue/PR if you like it or want improvements!
 
