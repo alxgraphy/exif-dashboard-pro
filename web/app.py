@@ -96,7 +96,7 @@ def main():
         
         st.markdown("---")
         st.markdown("### About")
-        st.markdown("Built with ❤️ by [alxgraphy](https://github.com/alxgraphy)")
+        st.markdown("Built with ❤️ by [thealxlabs](https://github.com/thealxlabs)")
     
     # Main content
     if upload_type == "ZIP file (supports nested folders)" and uploaded_file is not None:
@@ -487,4 +487,4 @@ def display_dashboard(photos_data, show_gps, timeline_freq):
 if __name__ == "__main__":
     main()
 
-# Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@alxgraphy)
+# Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@thealxlabs)
